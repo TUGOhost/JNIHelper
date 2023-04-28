@@ -1,7 +1,7 @@
 A small utility library to hide all the horrors of JNI API.
 
 Changelog:
-===> Version 1.1.0:
+===> Version 1.1.1:
 * Support JNI call method Exception clear.
 ===> Version 1.1.0:
 * Java array support (arrays like 'int[]')
